@@ -1,0 +1,1 @@
+Esse pequeno programa permite ao usuário criar listas númericas em forma crescente. Caso ele tenha informado um valor mais de uma vez, o valor é desconsiderado.
